@@ -3,7 +3,7 @@
 ## Design of Robotic arm 
    This Project is aimed to design a basic pick and place Robot.It has 3 Degrees of Freedom
   
-   ### Degrees pf freedom :
+   ### Degrees of freedom :
    The number of independent motions a device can make in 3 Dimensional space.
    
    ### Sensor used: Accelerometer 
